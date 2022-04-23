@@ -1,0 +1,51 @@
+.heading{
+
+    background-color: rgb(28, 28, 82);
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+
+
+.container{
+    width:700px;
+    margin: auto ;
+    margin-top: 100px;
+    padding: 30px;
+    background-color: rgb(28, 28, 82);
+    
+}
+
+ 
+.menu{
+
+    
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: rgb(28, 28, 82);
+   
+}
+
+.updating{
+
+    width:700px;
+   
+    margin: auto ;
+
+}
+ .mounting{
+    width:700px;
+     
+    margin: auto ;
+
+ }
+
+ .unmounting{
+   
+    width:700px;
+    margin: auto ;
+ }
